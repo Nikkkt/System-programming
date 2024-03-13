@@ -1,0 +1,15 @@
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\bin\Debug\net8.0\NumbersAnalyzer.exe
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\bin\Debug\net8.0\NumbersAnalyzer.deps.json
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\bin\Debug\net8.0\NumbersAnalyzer.runtimeconfig.json
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\bin\Debug\net8.0\NumbersAnalyzer.dll
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\bin\Debug\net8.0\NumbersAnalyzer.pdb
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\NumbersAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\NumbersAnalyzer.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\NumbersAnalyzer.AssemblyInfo.cs
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\NumbersAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\NumbersAnalyzer.sourcelink.json
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\NumbersAnalyzer.dll
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\refint\NumbersAnalyzer.dll
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\NumbersAnalyzer.pdb
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\NumbersAnalyzer.genruntimeconfig.cache
+C:\Users\nikit\Desktop\System programming\NumbersAnalyzer\NumbersAnalyzer\obj\Debug\net8.0\ref\NumbersAnalyzer.dll
