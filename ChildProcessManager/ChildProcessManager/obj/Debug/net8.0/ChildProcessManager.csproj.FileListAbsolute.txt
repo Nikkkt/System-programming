@@ -1,0 +1,15 @@
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\bin\Debug\net8.0\ChildProcessManager.exe
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\bin\Debug\net8.0\ChildProcessManager.deps.json
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\bin\Debug\net8.0\ChildProcessManager.runtimeconfig.json
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\bin\Debug\net8.0\ChildProcessManager.dll
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\bin\Debug\net8.0\ChildProcessManager.pdb
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ChildProcessManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ChildProcessManager.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ChildProcessManager.AssemblyInfo.cs
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ChildProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ChildProcessManager.sourcelink.json
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ChildProcessManager.dll
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\refint\ChildProcessManager.dll
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ChildProcessManager.pdb
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ChildProcessManager.genruntimeconfig.cache
+C:\Users\nikit\Desktop\System programming\ChildProcessManager\ChildProcessManager\obj\Debug\net8.0\ref\ChildProcessManager.dll
