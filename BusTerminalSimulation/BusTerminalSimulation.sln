@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTerminalSimulation", "BusTerminalSimulation\BusTerminalSimulation.csproj", "{342B6A1F-B2F8-4A89-8CE9-0536C4F0B0B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342B6A1F-B2F8-4A89-8CE9-0536C4F0B0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342B6A1F-B2F8-4A89-8CE9-0536C4F0B0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342B6A1F-B2F8-4A89-8CE9-0536C4F0B0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342B6A1F-B2F8-4A89-8CE9-0536C4F0B0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB30F2AD-E5C2-4665-B770-6787C061B58A}
+	EndGlobalSection
+EndGlobal
