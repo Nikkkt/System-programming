@@ -24,4 +24,4 @@ else if (userInput == "2")
     try { childProcess.Kill(); Console.WriteLine("The process was forcibly terminated"); }
     catch (Exception ex) { Console.WriteLine("Error when completing the process: " + ex.Message); }
 }
-else Console.WriteLine("Unknown team: " + userInput);
+else Console.WriteLine("Unknown command: " + userInput);
